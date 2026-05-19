@@ -25,3 +25,4 @@ else:
 <img width="338" height="107" alt="image" src="https://github.com/user-attachments/assets/aa376c8d-18bf-4c32-a29d-5e31fbea2ead" />
 
 ## Result
+Thus, the Python program to evaluate boolean and arithmetic expressions using True and False was executed successfully.
